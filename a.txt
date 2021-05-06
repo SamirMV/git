@@ -1,3 +1,7 @@
 Teste
 entendendo o HEAD
+<<<<<<< HEAD
 linha modificada pelo Ramo Master
+=======
+linha modificada no Ramo Teste
+>>>>>>> teste
