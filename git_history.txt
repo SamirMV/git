@@ -1,0 +1,356 @@
+    1  exit
+    2  ls
+    3  cd .dir
+    4  ls
+    5  cd ls
+    6  dir
+    7  ls
+    8  cd c:
+    9  ls
+   10  ls -a
+   11  ls | grep "P"
+   12  ls > grep "P"
+   13  exit grep "P"
+   14  help
+   15  ls
+   16  cmd
+   17  ls
+   18  cd c:
+   19  ls
+   20  dir
+   21  ls /a
+   22  ls -a
+   23  top
+   24  ps
+   25  pwd
+   26  ls
+   27  ls | grep "on"
+   28  ls | grep "one"
+   29  clear
+   30  notepad++
+   31  exit
+   32  ls
+   33  git init
+   34  ls
+   35  ls -o
+   36  ls -a
+   37  git status
+   38  git status
+   39  touch a.txt b.txt
+   40  cls
+   41  clear
+   42  git status
+   43  git add *
+   44  git status
+   45  clear
+   46  git commit -m "Criado os arq A e B"
+   47  git config --global user.name "Samir M Vasconcelos"
+   48  git config --global user.email "samir_mar@hotmail.com"
+   49  clear
+   50  git commit -m "Criado os arq A e B"
+   51  ls
+   52  cd .git
+   53  ls
+   54  cd info/
+   55  dir
+   56  ls
+   57  ls -a
+   58  cd .ls
+   59  cd ..
+   60  ls
+   61  cd objects/
+   62  ls
+   63  gir log
+   64  cd ..
+   65  cd ..
+   66  pwd
+   67  dir
+   68  ls
+   69  git log
+   70  touch c.txt
+   71  git status
+   72  notepad++
+   73  notepad++
+   74  bash
+   75  exit
+   76  notepad++
+   77  notepad++ a.txt
+   78  git status
+   79  git add *
+   80  git status 
+   81  git commit -m "modificado a.txt e criado c.txt"
+   82  git log
+   83  git log
+   84  tail
+   85  tail log
+   86  git log | tail
+   87  git log | tail 3
+   88  git log | tail(3)
+   89  git log | tail -3
+   90  git log | tail 3
+   91  git log | tail +3
+   92  git log | tail -1
+   93  git log | head 3
+   94  git log | head
+   95  git log | head -3
+   96  git log | head -4
+   97  git log | head -5
+   98  git log --oneline 
+   99  ls
+  100  ls á
+  101  ls -a
+  102  clear
+  103  git log --oneline 
+  104  clear
+  105  git log
+  106  clear
+  107  git log --oneline 
+  108  clear
+  109  git log --graph
+  110  git log --online --graph
+  111  git log --oneline --graph
+  112  clear
+  113  notepad++.exe 
+  114  git status
+  115  git status
+  116  git commit -am "Criado linha em arquivo a.txt (entendendo HEAD)"
+  117  git log --graph 
+  118  cleR
+  119  clear
+  120  git log --graph 
+  121  clear
+  122  git branch 
+  123  git log --oneline 
+  124  git checkout 2d5331a
+  125  git checkout 2d5331a
+  126  git log
+  127  clear
+  128  git log
+  129  git log --oneline 
+  130  git checkout 2d5331a
+  131  git log --oneline 
+  132  git branch
+  133  git checkout master
+  134  git branch
+  135  git log --oneline 
+  136  git diff
+  137  git status
+  138  git restore a.txt
+  139  git status
+  140  git diff
+  141  git status
+  142  git diff
+  143  git add *
+  144  dif
+  145  git diff
+  146  git status
+  147  git reset HEAD
+  148  git diff
+  149  git status
+  150  git commit -am "Removendo um commit"
+  151  git status
+  152  clear
+  153  git status
+  154  git log
+  155  git log --graph 
+  156  clear
+  157  git log --graph 
+  158  git log --graph --oneline 
+  159  git reset --hard fac8f23
+  160  git log --graph --oneline 
+  161  history 
+  162  date
+  163  command
+  164  help
+  165  help | ft
+  166  help | ft list
+  167  help | more
+  168  help
+  169  ps
+  170  jobs
+  171  ps -a
+  172  grep
+  173  grep --help
+  174  ls
+  175  cd .\
+  176  pwd
+  177  cd .
+  178  cd ..
+  179  cd /
+  180  ls
+  181  pwd
+  182  lsif
+  183  lsass
+  184  ldm
+  185  lsm
+  186  dh
+  187  df
+  188  kpwd
+  189  ls
+  190  cd c:
+  191  dir
+  192  ls
+  193  ls | grep int
+  194  ls | grep dum
+  195  ls | grep "dum"
+  196  ls | grep "Dum"
+  197  ls | grep --color=red "Dum"
+  198  ls | grep --color="red" "Dum"
+  199  ls | grep -NUM "Dum"
+  200  ls | grep --color=WHEN "Dum"
+  201  ls | grep -i "dum" 
+  202  ls | find -i "dum" 
+  203  ls | grep -i -c=auto "dum" 
+  204  ls | grep -i --c=auto "dum" 
+  205  ls | grep -i --colour=auto "dum" 
+  206  ls | grep -i --colour=blue "dum" 
+  207  ls | grep -i --colour=always "dum" 
+  208  export GREP_OPTIONS='--color=always'
+  209  ls | grep -i "dum" 
+  210  alias
+  211  alias get
+  212  alias --help
+  213  alias -p
+  214  findstr
+  215  ls | findstr /i dum
+  216  ls | findstr /i "dum"
+  217  ls | findstr -i "dum"
+  218  ls | findstr -i "dum" -colour=auto
+  219  findstr help
+  220  findstr -help
+  221  findstr /h
+  222  findstr /?
+  223  color
+  224  color 0A
+  225  exit
+  226  git log
+  227  cd ls
+  228  ls
+  229  cd \
+  230  cd .ls
+  231  pws
+  232  pwd
+  233  cd ..
+  234  cd ..
+  235  cdls
+  236  ls
+  237  cd Documents\ and\ Settings/
+  238  dir
+  239  cd user/
+  240  dir
+  241  cd Desktop/
+  242  dir
+  243  ls
+  244  cd Projetos/
+  245  bash
+  246  exit
+  247  git log --graph
+  248  exit
+  249  git log --graph
+  250  git log --graph
+  251  clear
+  252  ls
+  253  clear
+  254  cl
+  255  alias cl clear
+  256  ser alias cl clear
+  257  alias cl=clear
+  258  cl
+  259  git branch 
+  260  git checkout -b teste
+  261  cl
+  262  git log --graph 
+  263  git branch 
+  264  xl
+  265  cl
+  266  git branch 
+  267  git log --graph 
+  268  git status
+  269  git add .
+  270  git status
+  271  cl
+  272  git commit -m "Modificado arquivos a.txt e b.txt"
+  273  cl
+  274  git log --oneline 
+  275  git log --graph 
+  276  touch.exe d.txt
+  277  ls
+  278  cl
+  279  git log
+  280  git status
+  281  git add .
+  282  git status
+  283  xl
+  284  cl
+  285  git commit -m "Criado o arquivo d.txt"
+  286  git status
+  287  git checkout master
+  288  git branch 
+  289  git status
+  290  git add .
+  291  git status
+  292  git commit -m "modificado os aquivos a.txt b.txt c.txt"
+  293  cl
+  294  git log
+  295  cl
+  296  git --all
+  297  git --graph --all
+  298  git log --all
+  299  git log --graph  --all
+  300  cl
+  301  git branch 
+  302  git merge teste 
+  303  git status
+  304  git add .
+  305  git status
+  306  git commit -m "fusao dos ramos e resolucao dos conflitos a.txt"
+  307  git status
+  308  cl
+  309  git log --graph --all
+  310  cl
+  311  git remote
+  312  git remote add origin https://github.com/samir-mar/git.git
+  313  git user.name
+  314  git --help
+  315  git --user.name
+  316  git --user
+  317  git --config
+  318  git --config user.name
+  319  history
+  320  git config --global user.name samir-mar
+  321  git config --global user.email samir_mar@hotmail.com
+  322  git remote add origin https://github.com/samir-mar/git.git
+  323  git remote
+  324  git config --global user.name "samir-mar"
+  325  git config --global user.email "samir_mar@hotmail.com"
+  326  git remote
+  327  cl
+  328  git log
+  329  git status
+  330  touch arquivo e.txt
+  331  git status
+  332  del arquivo
+  333  rm arquivo
+  334  ls
+  335  git status
+  336  git commit -am "criado arquivo d.txt"
+  337  git add .
+  338  git commit -m "criado arquivo d.txt"
+  339  git status
+  340  git log --all
+  341  git log --graph  --all
+  342  git config --list
+  343  git remote add origin https://github.com/samir-mar/git.git
+  344  git branch -M main
+  345  git push -u origin main
+  346  arp -a
+  347  á
+  348  git config
+  349  ping google.com
+  350  ping google.com
+  351  git push -u origin main
+  352  git remote add origin https://github.com/samirMV/git.git
+  353  history
+  354  cat history >> git_history.txt
+  355  cat
+  356  history | cat >> git_history.txt
